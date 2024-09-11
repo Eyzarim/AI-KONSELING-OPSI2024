@@ -19,9 +19,9 @@ Proyek ini bertujuan untuk mengembangkan model AI yang mengintegrasikan Natural 
 
 ## **Fitur**
 
-- ✨ **Fitur 1**: Deskripsikan fitur utama proyek.
-- 🔧 **Fitur 2**: Jelaskan fitur lain yang menarik.
-- 🚀 **Fitur 3**: Kelebihan atau teknologi yang digunakan dalam proyek.
+- 🌐 **Layanan Konseling Kesehatan Online**: Memberikan interaksi real-time dengan pasien menggunakan AI berbasis NLP.
+- 📊 **Deteksi Dini Penyakit**: Analisis citra medis untuk diagnosis dini menggunakan model ResNet.
+- ⚙️ **Integrasi Transformer dan CNN**: Menggunakan LLaMA 3.1 untuk NLP dan ResNet untuk analisis gambar.
 
 ## **Instalasi**
 
