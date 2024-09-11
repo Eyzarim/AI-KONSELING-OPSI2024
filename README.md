@@ -4,6 +4,7 @@
 ![License Badge](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Version Badge](https://img.shields.io/badge/Version-1.0-brightgreen.svg)
 ![Build Badge](https://img.shields.io/badge/Build-Passing-success.svg)
+![Ollama](https://ollama.com/public/ollama.png)
 
 Deskripsi singkat tentang proyek ini, apa yang dilakukan, dan mengapa Anda membuatnya.
 
