@@ -4,9 +4,8 @@
 ![License Badge](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Version Badge](https://img.shields.io/badge/Version-1.0-brightgreen.svg)
 ![Build Badge](https://img.shields.io/badge/Build-Passing-success.svg)
-![Ollama](https://ollama.com/public/ollama.png/30)
 
-Deskripsi singkat tentang proyek ini, apa yang dilakukan, dan mengapa Anda membuatnya.
+Proyek ini bertujuan untuk mengembangkan model AI yang mengintegrasikan Natural Language Processing (NLP) berbasis transformer **LLaMA 3.1** dan Convolutional Neural Network (CNN) **ResNet**. Model ini dirancang untuk layanan konseling kesehatan interaktif serta deteksi dini penyakit melalui analisis citra medis.
 
 ## **Tabel Isi**
 
