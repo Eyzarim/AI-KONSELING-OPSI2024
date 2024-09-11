@@ -12,6 +12,7 @@ Proyek ini bertujuan untuk mengembangkan model AI yang mengintegrasikan Natural 
 - [Fitur](#fitur)
 - [Instalasi](#instalasi)
 - [Penggunaan](#penggunaan)
+- [Evaluasi](#evaluasi)
 - [Kontribusi](#kontribusi)
 - [Lisensi](#lisensi)
 - [Kontak](#kontak)
